@@ -1,11 +1,21 @@
 body {
-    font-family: Lato;}
+    font-family: Lato;
+
+}
 h1 {
-    color: rgb(66, 179, 244);}
-.center {
+    color: rgb(66, 179, 244);
+}
+
+.incenter {
   margin: auto;
   width: 60%;
   padding: 10px;
   text-align: center;
+}
+
+.outcenter {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
   display: inline-block;
 }
