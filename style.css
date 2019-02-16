@@ -2,3 +2,9 @@ body {
     font-family: Lato;}
 h1 {
     color: rgb(66, 179, 244);}
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
