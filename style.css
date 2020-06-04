@@ -1,17 +1,12 @@
 h1 {
     color: rgb(66, 179, 244);
+    alignment: center;
 }
 
-.incenter {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-  text-align: center;
+h2 {
+    alignment: center;
 }
 
-.outcenter {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-  display: inline-block;
+body {
+    padding: 15px;
 }
